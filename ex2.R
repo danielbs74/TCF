@@ -37,7 +37,7 @@ plot(x = alpha, y = x, type = 'l',
 
 r = 0.04
 
-z = seq(0, 0.5, 0.5/98)
+z = seq(0, 0.05, 0.05/98)
 
 ddx = -1 + exp(z)/(1+r)
 
